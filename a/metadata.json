@@ -1,0 +1,6 @@
+{
+  "name": "한이룸의 상세페이지 재단사 (Detail Page Tailor)",
+  "description": "긴 상세페이지 이미지를 스마트하게 분석하여 최적의 위치에서 자동으로 분할해주는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
